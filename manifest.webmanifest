@@ -1,0 +1,27 @@
+{
+    "name": "Weather App",
+    "short_name": "Weather",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#3465A4",
+    "description": "A weather App",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "366x366",
+            "type": "image/png"
+        },
+        {
+            "src": "personal_data_.svg",
+            "sizes": "200x150",
+            "type": "image/svg",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "app-iPhone.png",
+            "sizes": "613x1255",
+            "type": "image/png"
+        }
+    ]
+
+}
